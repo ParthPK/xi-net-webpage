@@ -1,6 +1,8 @@
-# Nerfies
+# Project Webpage for Xi-Net: Transformer based Seismic Waveform Reconstructor [ICIP 2023 Oral Presentation (Multidimensional Signal Processing Track)] 
 
-This is the repository that contains source code for the [Nerfies website](https://nerfies.github.io).
+This is the repository that contains source code for Xi-Net website 
+
+Taken from [Nerfies website](https://nerfies.github.io).
 
 If you find Nerfies useful for your work please cite:
 ```
